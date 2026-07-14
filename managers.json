@@ -1,0 +1,10 @@
+{"managers":[
+    {
+        "id": "manager1",
+        "password": "password1"
+    },
+    {
+        "id": "manager2",
+        "password": "password2"
+    }
+]}

@@ -1,0 +1,46 @@
+{
+    "students": [
+        {
+            "id": 24250001,
+            "name": "AZAM",
+            "age": 18,
+            "marks": 95
+        },
+        {
+            "id": 24250003,
+            "name": "NUR",
+            "age": 18,
+            "marks": 75
+        },
+        {
+            "id": 24250004,
+            "name": "zain",
+            "age": 20,
+            "marks": 97
+        },
+        {
+            "id": 24250005,
+            "name": "munazir",
+            "age": 22,
+            "marks": 78
+        },
+        {
+            "id": 24250009,
+            "name": "faiza",
+            "age": 19,
+            "marks": 86
+        },
+        {
+            "id": 24250010,
+            "name": "athif",
+            "age": 16,
+            "marks": 87
+        },
+        {
+            "id": 24250015,
+            "name": "zaka",
+            "age": 41,
+            "marks": 70
+        }
+    ]
+}
